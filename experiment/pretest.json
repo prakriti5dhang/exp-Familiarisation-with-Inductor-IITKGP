@@ -2,12 +2,12 @@
     "version": 2.0,
     "questions": [
       {
-        "question": "Two 33 μF capacitors are connected in series with each other. What will their combined capacitance be in Farads?",
+        "question": "Two 50 mH inductors are connected in parallel with each other. What will their combined inductance be in Henrys?",
         "answers": {
-          "a": "66uF",
-          "b": "120uF",
-          "c": "16.5uF",
-          "d": "200uF"
+          "a": "200 mH",
+          "b": "50 mH",
+          "c": "25 mH",
+          "d": "100 mH"
         },
         "explanations": {
           "a": "You have choosen option (a). The answer is incorrect",
@@ -19,12 +19,12 @@
         "difficulty": "beginner"
       },
       {
-        "question": "A 10μF capacitor is charged to a voltage of 20 volts.How many coulombs of electric charge are stored in this capacitor?",
+        "question": "Calculate the total inductance in this collection of inductors, as measured between the two wires.calculates total inductance given the values of inductors L1, L2, and L3. <br/><p style=\"text-align:center\"><img src=\"images/figure2.png\"></p>",
         "answers": {
-          "a": "20uC of charge",
-          "b": "120uC of charge",
-          "c": "20mC of charge",
-          "d": "200uC of charge"
+          "a": "700 mH",
+          "b": "583.26 mH",
+          "c": "689.09 mH",
+          "d": "783.26 mH"
         },
         "explanations": {
           "a": "You have choosen option (a). The answer is incorrect  ",

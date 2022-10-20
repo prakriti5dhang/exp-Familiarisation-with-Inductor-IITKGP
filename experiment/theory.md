@@ -1,6 +1,6 @@
 # Theory
 
-## Function of an Inductor
+### Function of an Inductor
 The function of a valve is to control the amount of fluid that flows through a pipe.
 
 <div align="center">
@@ -24,7 +24,7 @@ Mother device that controls the current is the inductor .
 
 However unlike the resistor that affects the current uniformly at all times, the inductor only affects currents when thy are changing in value.
 
-## Similarity with Capacitor
+### Similarity with Capacitor
 
 - Rate of change of voltage in a capacitor depends upon the current through it
 - Rate of change of current in an inductor depends upon the voltage applied across it.
@@ -47,7 +47,7 @@ $$V= L\frac{dl}{dt}$$
 
 It consists of a wire wound as a coil around a core. The core may consist of a air filled hollow tube or solid material.
 
-## Inductance
+### Inductance
 The amount of inductance in henries a coil has, is determined by the following factors -
 - No of turns of wire wound around the coil
 - Cross sectional area of the coil
@@ -90,7 +90,7 @@ If the diameter of the coil around an inductor is increased(doubles),how will th
 - Decrease
 - Will Not Change
 
-## Inductive Kick
+### Inductive Kick
 
 An Inductive is capable of producing a momentary voltage that is much higher than the voltage of th power source that supplied the current to create its magnetic field . This temporary voltage is called an inductive kick.
 <div align="center">
