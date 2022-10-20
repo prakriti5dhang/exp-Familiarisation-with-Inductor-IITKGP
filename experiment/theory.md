@@ -67,6 +67,7 @@ If the number of turns of coil around an inductor is increased ( doubles ), how 
 <img src="images/i5.png" width="10%">
 <p>Figure: 6</p>
 </div>
+
 - Increase
 - Decrease
 - Will Not Change
@@ -77,6 +78,7 @@ If the distance between the turns of coil around an inductor is increased ( doub
 <img src="images/i6.png" width="10%">
 <p>Figure: 6</p>
 </div>
+
 - Increase
 - Decrease
 - Will Not Change
@@ -86,6 +88,7 @@ If the diameter of the coil around an inductor is increased(doubles),how will th
 <img src="images/i7.png" width="10%">
 <p>Figure: 7</p>
 </div>
+
 - Increase
 - Decrease
 - Will Not Change
