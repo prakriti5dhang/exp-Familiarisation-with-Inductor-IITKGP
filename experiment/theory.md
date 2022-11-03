@@ -106,3 +106,5 @@ Example of applications of inductive devices to provide an inductive kick is a C
 Slides:  [Familiarisation with Inductor](http://vlabs.iitkgp.ac.in/be/exp3/content/slides.html)
 
 pdf:  [Familiarisation with Inductor](http://vlabs.iitkgp.ac.in/be/exp3/content/measuind.pdf)
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
